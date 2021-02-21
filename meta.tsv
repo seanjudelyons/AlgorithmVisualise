@@ -1,0 +1,24 @@
+2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+fdd7585e08c4e2afd71dcabdb4636c89d557a3f42db9e2040c8bbd1708aa4ce7
+def num2arr(n):
+F
+T
+def TRUE(x):
+def IF(x, a, b):
+def NOT(x):
+def AND(x, y):
+def XOR(x, y):
+def MAJ(x, y, z):
+def XORXOR(x, y, z):
+def if_(x, y, z):
+def and_(x, y): 
+def xor(x, y):  
+def maj(x, y, z):
+def xorxor(x, y, z):
+def add(x, y):
+def rotr(x, n):
+def cut(x, n):
+def sha(w):
+def arrsToHex(arrs):
+def translateArrBits(arr, source, target): 
+digestBool = sha(w)
